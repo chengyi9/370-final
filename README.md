@@ -20,11 +20,14 @@ Our research helps to identify the correlation between students’ drinking habi
 
 **Key Findings:**
 
-1. More than 3 million students drink alone, more than 4 million drink when they
+1. Fifty-one percent of junior and senior high school students have had at least one
+drink within the past year and 8 million students drink weekly. 
+
+2. More than 3 million students drink alone, more than 4 million drink when they
 are upset, and less than 3 million drink because they are bored  
 
-2. Parents, friends, and alcoholic beverage advetiements influences students’
+3. Parents, friends, and alcoholic beverage advetiements influences students’
 attitudes about alcohol  
 
-3. Students' drinking habit is heavily influenced by their surroundings and is likely 
-impacted by the local student culture, and student norms
+4. Students' drinking habit is heavily influenced by their surroundings and is likely 
+impacted by the local student culture, and norms
