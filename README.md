@@ -13,6 +13,18 @@ For our final web resource, we decided to use an HTML page (based on a rendered 
 ### Literature:
 Our research helps to identify the correlation between students’ drinking habit and other risk factors, including parent demographics, and academic success. Our research can be used to further infer causal relationships between students’ demographics/behavior and the risk of alcohol abuse.
 
-[YOUTH AND ALCOHOL: A NATIONAL SURVEY DRINKING HABITS, ACCESS, ATTITUDES, AND KNOWLEDGE ](https://oig.hhs.gov/oei/reports/oei-09-91-00652.pdf)  
+[YOUTH AND ALCOHOL: A NATIONAL SURVEY DRINKING HABITS, ACCESS, ATTITUDES, AND KNOWLEDGE ](https://oig.hhs.gov/oei/reports/oei-09-91-00652.pdf)    
+
 [Student drinking: culture, change and Cochrane](https://uk.cochrane.org/news/student-drinking-culture-change-and-cochrane)  
-[USING DATA MINING TO PREDICT SECONDARY SCHOOL STUDENT ALCOHOL CONSUMPTION](https://www.researchgate.net/publication296695210_STUDENT_ALCOHOL_CONSUMPTION_presentation)
+[USING DATA MINING TO PREDICT SECONDARY SCHOOL STUDENT ALCOHOL CONSUMPTION](https://www.researchgate.net/publication296695210_STUDENT_ALCOHOL_CONSUMPTION_presentation)  
+
+**Key Findings:**
+
+1. More than 3 million students drink alone, more than 4 million drink when they
+are upset, and less than 3 million drink because they are bored  
+
+2. Parents, friends, and alcoholic beverage advetiements influences students’
+attitudes about alcohol  
+
+3. Students' drinking habit is heavily influenced by their surroundings and is likely 
+impacted by the local student culture, and student norms
