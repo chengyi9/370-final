@@ -15,7 +15,8 @@ Our research helps to identify the correlation between students’ drinking habi
 
 [YOUTH AND ALCOHOL: A NATIONAL SURVEY DRINKING HABITS, ACCESS, ATTITUDES, AND KNOWLEDGE ](https://oig.hhs.gov/oei/reports/oei-09-91-00652.pdf)    
 
-[Student drinking: culture, change and Cochrane](https://uk.cochrane.org/news/student-drinking-culture-change-and-cochrane)  
+[STUDENT DRINKING: CULTURE, CHANGE, AND COCHRANE](https://uk.cochrane.org/news/student-drinking-culture-change-and-cochrane) 
+
 [USING DATA MINING TO PREDICT SECONDARY SCHOOL STUDENT ALCOHOL CONSUMPTION](https://www.researchgate.net/publication296695210_STUDENT_ALCOHOL_CONSUMPTION_presentation)  
 
 **Key Findings:**
