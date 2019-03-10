@@ -98,6 +98,8 @@ plt_actual_pred_dwi_aft.savefig('img/plt_actual_pred_dwi_aft.png', dpi=plt_actua
 # removing prediciton and full_prediction from nice dataframe
 df_nice = df_nice.drop(['prediction'], axis=1)
 df_nice = df_nice.drop(['full_prediction'], axis=1)
+#df_nice = df_nice.drop(['Social Index'], axis=1)
+#df_nice = df_nice.drop(['Drinking Index'], axis=1)
 
 # histogram plot of social index (how social people are)
 plt_hist_social_index = plt.figure(figsize=(16,9))
@@ -105,7 +107,7 @@ plt.hist(df_nice["Social Index"], width = 0.1)
 plt.xlabel("Social Index")
 plt.ylabel("Frequency")
 plt.title("Histogram of the Social Index")
-plt.show()
+#plt.show()
 plt_hist_social_index.savefig('img/plt_hist_social_index.png', dpi=plt_hist_social_index.dpi)
 
 # Scatter plot of social index vs. DWI
