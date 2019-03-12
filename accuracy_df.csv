@@ -1,0 +1,5 @@
+algorithms,weekday_drinking_accuracy,weekend_drinking_accuracy
+Decision Tree,0.6666666666666666,0.5428571428571428
+Random Forest,0.8,0.7619047619047619
+SVM,0.6285714285714286,0.580952380952381
+Logistic Reg,0.66,0.47
