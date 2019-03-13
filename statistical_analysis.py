@@ -118,7 +118,7 @@ plt.hist(df_nice["Social Index"], width = 0.1, bins=8)
 plt.xlabel("Social Index")
 plt.ylabel("Frequency")
 plt.title("Histogram of the Social Index")
-plt.show()
+#plt.show()
 plt_hist_social_index.savefig('img/plt_hist_social_index.png', dpi=plt_hist_social_index.dpi)
 
 # Scatter plot of social index vs. DWI
