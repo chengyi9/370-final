@@ -114,7 +114,7 @@ df_nice = df_nice.drop(['full_prediction'], axis=1)
 
 # histogram plot of social index (how social people are)
 plt_hist_social_index = plt.figure(figsize=(16,9))
-plt.hist(df_nice["Social Index"], width = 0.1)
+plt.hist(df_nice["Social Index"], width = 0.1, bins=8)
 plt.xlabel("Social Index")
 plt.ylabel("Frequency")
 plt.title("Histogram of the Social Index")
