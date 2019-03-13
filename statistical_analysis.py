@@ -95,6 +95,17 @@ plt.xlim(0,6)
 plt.show()
 plt_actual_pred_dwi_aft.savefig('img/plt_actual_pred_dwi_aft.png', dpi=plt_actual_pred_dwi_aft.dpi)
 
+# residue of actual dwi vs. predicted dwi (AFTER)
+diff = df_nice["Drinking Index"] - df_nice["full_prediction"]
+plt_resid_actual_pred_dwi_aft = plt.figure(figsize=(16,9))
+plt.scatter(df_nice["Drinking Index"], diff, alpha=0.3)
+plt.axhline(0, c='r')
+plt.xlabel("DWI")
+plt.ylabel("Residuals")
+plt.title('Residual Error of DWI')
+plt.show()
+plt_resid_actual_pred_dwi_aft.savefig('img/plt_resid_actual_pred_dwi_aft.png', dpi=plt_resid_actual_pred_dwi_aft.dpi)
+
 # removing prediciton and full_prediction from nice dataframe
 df_nice = df_nice.drop(['prediction'], axis=1)
 df_nice = df_nice.drop(['full_prediction'], axis=1)
@@ -103,7 +114,7 @@ df_nice = df_nice.drop(['full_prediction'], axis=1)
 
 # histogram plot of social index (how social people are)
 plt_hist_social_index = plt.figure(figsize=(16,9))
-plt.hist(df_nice["Social Index"], width = 0.1)
+plt.hist(df_nice["Social Index"], width = 0.1, bins=8)
 plt.xlabel("Social Index")
 plt.ylabel("Frequency")
 plt.title("Histogram of the Social Index")
